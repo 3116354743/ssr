@@ -4,7 +4,7 @@ export PATH
 #
 # Auto install Shadowsocks Server (all version)
 #
-# Copyright (C) 2016-2019 rebing
+# Copyright (C) 2018-2021 rebing
 #
 # System Required:  CentOS 6+, Debian7+, Ubuntu12+
 #
