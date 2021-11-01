@@ -23,7 +23,7 @@ export PATH
 # @madeye     <https://github.com/madeye>
 # @linusyang  <https://github.com/linusyang>
 # @Akkariiin  <https://github.com/Akkariiin>
-# 
+#
 # Intro:  https://www.r6b.cn/736.html
 
 red='\033[0;31m'
